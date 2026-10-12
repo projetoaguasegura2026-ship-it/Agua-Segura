@@ -15,7 +15,7 @@ Projeto da **Maratona DevImpacto 2026**, eixo Meio Ambiente e Saúde.
 
 ## Como usar
 
-Abra o endereço do site (GitHub Pages). Para rodar no computador, basta servir a pasta:
+Abra o endereço do site. Para rodar no computador, basta servir a pasta:
 
 ```bash
 python3 -m http.server 8000
