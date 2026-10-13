@@ -2,7 +2,7 @@
 
 Sistema web para famílias e escolas acompanharem a água guardada em caixas e cisternas: mostra quantos dias a água dura e avisa a hora de pedir o carro-pipa, com voz, figuras e o mascote Pingo.
 
-Projeto da **Maratona DevImpacto 2026**, eixo Meio Ambiente e Saúde.
+Projeto da **Maratona DevImpacto 2026**, eixo Meio Ambiente.
 
 ## O que o sistema faz
 
@@ -41,9 +41,9 @@ Este projeto foi feito com apoio de ferramentas de inteligência artificial (Cla
 
 ## Equipe
 
-- Jesiel Wenderly da Silva Souza (planejamento e ideias)
-- Samuel Júlio de Andrade (desenvolvimento do site)
-- Débora Celestino da Silva (pesquisa e conteúdo)
+- Jesiel (planejamento e ideias)
+- Samuel (desenvolvimento do site)
+- Débora (pesquisa e conteúdo)
 - Professor orientador: Éverton Silva de Souza
 - Escola: EREM Abílio de Souza Barbosa
 
